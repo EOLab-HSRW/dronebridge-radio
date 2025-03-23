@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XIAO-ESP32C3-footprints")(type "KiCad")(uri "${KIPRJMOD}/XIAO-ESP32C3-footprints")(options "")(descr ""))
+)
