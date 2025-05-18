@@ -557,7 +557,7 @@
           "group_by": false,
           "label": "Mfr. No.",
           "name": "Mfr. No.",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

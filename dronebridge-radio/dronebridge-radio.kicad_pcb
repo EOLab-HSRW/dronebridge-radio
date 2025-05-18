@@ -1250,7 +1250,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "B"
+	(gr_text "R"
 		(at 136.5 97.75 0)
 		(layer "F.SilkS")
 		(uuid "542fed27-31bf-4d2b-970e-07228d049f3f")
@@ -1263,7 +1263,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "R"
+	(gr_text "B"
 		(at 128 97.75 0)
 		(layer "F.SilkS")
 		(uuid "cb80ccb0-6431-41b2-bfb6-ef04f3f2bad5")
