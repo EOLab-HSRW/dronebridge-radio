@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qEQDBpuscKWMQgwRPPIw" name="components">
-    <mxGraphModel dx="1812" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3850" dy="2773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
           <mxGeometry height="50" width="210" x="799" y="900" as="geometry" />
         </mxCell>
         <mxCell id="SG1Bie2eNopn5XV8DtJ5-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="Pixhawk telemetry connector" vertex="1">
-          <mxGeometry height="30" width="270" x="800" y="755" as="geometry" />
+          <mxGeometry height="30" width="220" x="800" y="755" as="geometry" />
         </mxCell>
         <mxCell id="SG1Bie2eNopn5XV8DtJ5-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;strokeWidth=2;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;opacity=50;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
