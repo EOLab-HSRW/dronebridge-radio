@@ -6,11 +6,14 @@ A telemetry radio with mesh support powered by [XIAO ESP32-C3](https://wiki.seee
 
 ## Components
 
-
-<div style="width:70%; margin:0 auto; border:1px solid #ccc; padding:10px;">
-  <img src="./images/components.jpg" alt="Example image" style="width:100%; display:block;">
-  <p style="margin:8px 0 0;  text-align:center;">The set of components that compose the radio.</p>
-</div>
+<table align="center" width="70%">
+  <tr>
+    <td align="center">
+      <img src="./images/components.jpg" alt="Components" style="width:70%; display:block;">
+      <p style="margin:8px 0 0;  text-align:center;">The set of components that compose the radio.</p>
+    </td>
+  </tr>
+</table>
 
 List of components:
 1. 3D printed case: TBA
